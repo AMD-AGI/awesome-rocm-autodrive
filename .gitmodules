@@ -1,3 +1,27 @@
 [submodule "examples/occupancy/FlashOCC/FlashOCC"]
 	path = examples/occupancy/FlashOCC/FlashOCC
 	url = https://github.com/mingjielu/FlashOCC.git
+[submodule "examples/occupancy/SurroundOcc/SurroundOCC"]
+	path = examples/occupancy/SurroundOcc/SurroundOCC
+	url = https://github.com/mingjielu/SurroundOcc.git
+[submodule "examples/backbone/vision"]
+	path = examples/backbone/vision
+	url = https://github.com/amd-fuweiy/vision.git
+[submodule "examples/3d_detection/petr/PETR"]
+	path = examples/3d_detection/petr/PETR
+	url = https://github.com/aaab8b/PETR.git
+[submodule "examples/BEV/BEVFormer/BEVFormer"]
+	path = examples/BEV/BEVFormer/BEVFormer
+	url = https://github.com/jun-amd/BEVFormer.git
+[submodule "examples/3d_detection/pointpillars/mmdetection3d"]
+	path = examples/3d_detection/pointpillars/mmdetection3d
+	url = https://github.com/Treemann/mmdetection3d.git
+[submodule "examples/mapping/MapTR"]
+	path = examples/mapping/MapTR
+	url = https://github.com/aaab8b/MapTR.git
+[submodule "examples/prediction/QCNet"]
+	path = examples/prediction/QCNet
+	url = https://github.com/aaab8b/QCNet.git
+[submodule "examples/3d_detection/sparse4d/Sparse4D"]
+	path = examples/3d_detection/sparse4d/Sparse4D
+	url = https://github.com/binding7012/Sparse4D.git
