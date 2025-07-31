@@ -1,0 +1,3 @@
+[submodule "examples/occupancy/FlashOCC/FlashOCC"]
+	path = examples/occupancy/FlashOCC/FlashOCC
+	url = https://github.com/mingjielu/FlashOCC.git
