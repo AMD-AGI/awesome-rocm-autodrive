@@ -25,3 +25,6 @@
 [submodule "examples/3d_detection/sparse4d/Sparse4D"]
 	path = examples/3d_detection/sparse4d/Sparse4D
 	url = https://github.com/binding7012/Sparse4D.git
+[submodule "examples/end2end/UniAD/UniAD2.0"]
+	path = examples/end2end/UniAD/UniAD2.0
+	url = https://github.com/mingjielu/UniAD.git
