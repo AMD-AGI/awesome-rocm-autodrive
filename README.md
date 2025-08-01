@@ -128,9 +128,7 @@ When adding a new model:
 
 ## 📝 License
 
-This project is licensed under the **Apache License 2.0**.  
-You are free to use, modify, and distribute this codebase for commercial and non-commercial purposes, under the terms of the license.
-
+This project is licensed under the **Apache License 2.0**. while some specific operations in this library are with other licenses. Please refer to [NOTICE.md](NOTICE.md) for the careful check, if you are using our code for commercial matters.
 See the full license text here: [LICENSE](./LICENSE)
 
 
