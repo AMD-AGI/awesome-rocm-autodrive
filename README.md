@@ -44,10 +44,10 @@ awesome-rocm-autodrive-training/
 | FlashOCC         | Scene Occupancy  | https://github.com/mingjielu/FlashOCC | [examples/occupancy/FlashOCC](examples/occupancy/FlashOCC) |         |
 | Sparse4D         | Sparse Detector  | https://github.com/binding7012/Sparse4D |[examples/detection/sparse4d](examples/3d_detection/sparse4d) | |
 | BEVFormer        | Multi-view       | https://github.com/jun-amd/BEVFormer | [examples/detection/BEVFormer](examples/BEV/BEVFormer) |        |
-| PETR             | 3D Detection | https://github.com/aaab8b/PETR | See modified Readme in git |  |
+| PETR             | 3D Detection     | https://github.com/aaab8b/PETR | See modified Readme in git |  |
 | QCNet            | Trajectory Prediction | https://github.com/aaab8b/QCNet | See modified Readme in git |  |
 | SurroundOcc      | Scene Occupancy  | https://github.com/mingjielu/SurroundOcc | [examples/occupancy/FlashOCC](examples/occupancy/SurroundOcc) |         |
-| UniAD            | Multi-model      | https://github.com/mingjielu/UniAD | [examples/Multi-model/UniAD](examples/end2end/UniAD) |         |
+| UniAD            | End to End      | https://github.com/mingjielu/UniAD | [examples/end2end/UniAD](examples/end2end/UniAD) |         |
 
 
 ---
