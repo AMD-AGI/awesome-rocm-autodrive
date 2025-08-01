@@ -73,6 +73,7 @@ docker pull rocm/pytorch-training:autodrive
 ```
 
 build mmcv (optional)
+
 If you want to build mmcv separately, just
 ````bash
 MMCV_WITH_OPS=1 pip install .
