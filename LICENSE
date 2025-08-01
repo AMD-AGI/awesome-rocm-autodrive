@@ -1,0 +1,74 @@
+Copyright © 2025 Advanced Micro Devices, Inc. All rights reserved.
+
+MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+--------------------------------------------------------------------------------
+Third-Party Dependencies
+
+awesome-rocm-autodrive uses or references the following third-party projects:
+
+1. vision
+   - License: BSD-3-Clause license
+   - Repository: https://github.com/pytorch/vision
+
+2. mmdetection3d
+   - License: Apache-2.0 license
+   - Repository: https://github.com/open-mmlab/mmdetection3d
+
+3. MapTR
+   - License: MIT license
+   - Repository: https://github.com/aaab8b/MapTR
+
+4. FalshOCC
+   - License: Apache-2.0 license
+   - Repository: https://github.com/Yzichen/FlashOCC
+
+5. Sparse4D
+   - License: MIT license
+   - Repository: https://github.com/HorizonRobotics/Sparse4D
+
+6. BEVFormer
+   - License: Apache-2.0 license
+   - Repository: https://github.com/fundamentalvision/BEVFormer
+
+7. PETR
+   - License: Apache-2.0 license
+   - Repository: https://github.com/aaab8b/PETR
+
+8. QCNet
+   - License: Apache-2.0 license
+   - Repository: https://github.com/aaab8b/QCNet
+
+9. SurroundOCC
+   - License: Apache-2.0 license
+   - Repository: https://github.com/mingjielu/SurroundOcc
+
+10. UniAD
+   - License: Apache-2.0 license
+   - Repository: https://github.com/OpenDriveLab/UniAD
+
+11. MMCV
+   - License: Apache-2.0 license
+   - Repository: https://github.com/open-mmlab/mmcv
+
+Please comply with the respective licenses of these third-party projects when using or distributing awesome-rocm-autodrive.
+
+--------------------------------------------------------------------------------
