@@ -72,7 +72,13 @@ or directly pull the docker image provided by AMD:
 docker pull rocm/pytorch-training:autodrive
 ```
 
-### 3. Luanch Docker Container
+build mmcv (optional)
+If you want to build mmcv separately, just
+````bash
+MMCV_WITH_OPS=1 pip install .
+````
+
+### 3. Launch Docker Container
 ```bash
 docker run --rm -it --ipc=host --network=host \
   --device=/dev/kfd --device=/dev/dri \
