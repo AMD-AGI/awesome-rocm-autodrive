@@ -1,3 +1,5 @@
+/* Copyright (c) OpenMMLab. All rights reserved. */
+
 #ifndef PARROTS_CPP_HELPER
 #define PARROTS_CPP_HELPER
 #include <parrots/darray/darraymath.hpp>

@@ -1,3 +1,5 @@
+/* Copyright (c) OpenMMLab. All rights reserved. */
+
 // modified from
 // https://github.com/SJTU-Thinklab-Det/r3det-on-mmdetection/blob/master/mmdet/ops/fr/src/feature_refine_kernel.cu
 #include "pytorch_cpp_helper.hpp"

@@ -1,3 +1,5 @@
+/* Copyright (c) OpenMMLab. All rights reserved. */
+
 /*
 Modified from
 https://github.com/open-mmlab/OpenPCDet/blob/master/pcdet/ops/roipoint_pool3d/src/roipoint_pool3d_kernel.cu

@@ -1,3 +1,5 @@
+/* Copyright (c) OpenMMLab. All rights reserved. */
+
 #ifndef _MPS_UTILS_H_
 #define _MPS_UTILS_H_
 #include <torch/extension.h>

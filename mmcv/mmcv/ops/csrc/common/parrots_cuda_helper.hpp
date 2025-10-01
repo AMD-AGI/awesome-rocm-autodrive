@@ -1,3 +1,5 @@
+/* Copyright (c) OpenMMLab. All rights reserved. */
+
 #ifndef PARROTS_CUDA_HELPER
 #define PARROTS_CUDA_HELPER
 

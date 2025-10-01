@@ -1,3 +1,5 @@
+/* Copyright (c) OpenMMLab. All rights reserved. */
+
 #ifndef TRT_CUMMAXMIN_HPP
 #define TRT_CUMMAXMIN_HPP
 #include <string>

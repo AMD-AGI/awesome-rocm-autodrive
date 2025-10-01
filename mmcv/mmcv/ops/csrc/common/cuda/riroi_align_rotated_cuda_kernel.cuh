@@ -1,3 +1,5 @@
+/* Copyright (c) OpenMMLab. All rights reserved. */
+
 // Modified from
 // https://github.com/csuhan/ReDet/blob/master/mmdet/ops/riroi_align/src/riroi_align_kernel.cu
 #ifndef RIROI_ALIGN_ROTATED_CUDA_KERNEL_CUH

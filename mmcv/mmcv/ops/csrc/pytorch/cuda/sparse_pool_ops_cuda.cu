@@ -1,3 +1,5 @@
+/* Copyright (c) OpenMMLab. All rights reserved. */
+
 #include <cuda_runtime_api.h>
 #include <torch/script.h>
 // clang-format off

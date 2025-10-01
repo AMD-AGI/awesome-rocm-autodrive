@@ -1,3 +1,5 @@
+/* Copyright (c) OpenMMLab. All rights reserved. */
+
 #ifndef PYTORCH_CUDA_HELPER
 #define PYTORCH_CUDA_HELPER
 

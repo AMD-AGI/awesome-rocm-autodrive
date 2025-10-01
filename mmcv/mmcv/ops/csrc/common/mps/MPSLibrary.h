@@ -1,3 +1,5 @@
+/* Copyright (c) OpenMMLab. All rights reserved. */
+
 #ifndef _MPS_LIBRARY_H_
 #define _MPS_LIBRARY_H_
 

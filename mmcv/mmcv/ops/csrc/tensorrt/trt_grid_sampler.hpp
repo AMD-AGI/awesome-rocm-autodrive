@@ -1,3 +1,5 @@
+/* Copyright (c) OpenMMLab. All rights reserved. */
+
 #ifndef TRT_GRID_SAMPLER_HPP
 #define TRT_GRID_SAMPLER_HPP
 #include <cublas_v2.h>

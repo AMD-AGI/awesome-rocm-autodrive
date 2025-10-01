@@ -1,3 +1,5 @@
+/* Copyright (c) OpenMMLab. All rights reserved. */
+
 #include "pytorch_cpp_helper.hpp"
 
 inline void lidar_to_local_coords_cpu(float shift_x, float shift_y, float rz,

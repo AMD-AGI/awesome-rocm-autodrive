@@ -1,3 +1,5 @@
+# Copyright (c) OpenMMLab. All rights reserved.
+
 from typing import List, Optional, Tuple, Union
 
 import numpy as np

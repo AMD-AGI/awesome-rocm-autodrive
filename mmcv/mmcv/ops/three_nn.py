@@ -1,3 +1,5 @@
+# Copyright (c) OpenMMLab. All rights reserved.
+
 from typing import Any, Tuple
 
 import torch

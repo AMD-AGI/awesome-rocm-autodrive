@@ -1,3 +1,5 @@
+/* Copyright (c) OpenMMLab. All rights reserved. */
+
 #ifndef PYTORCH_CPP_HELPER
 #define PYTORCH_CPP_HELPER
 #include <torch/types.h>

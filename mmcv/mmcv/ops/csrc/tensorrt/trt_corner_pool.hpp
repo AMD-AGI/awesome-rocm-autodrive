@@ -1,3 +1,5 @@
+/* Copyright (c) OpenMMLab. All rights reserved. */
+
 #ifndef TRT_CORNER_POOL_HPP
 #define TRT_CORNER_POOL_HPP
 #include <string>

@@ -1,3 +1,5 @@
+/* Copyright (c) OpenMMLab. All rights reserved. */
+
 #ifndef TRT_NMS_HPP
 #define TRT_NMS_HPP
 #include <cublas_v2.h>

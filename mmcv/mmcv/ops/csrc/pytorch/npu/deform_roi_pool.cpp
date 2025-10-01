@@ -1,3 +1,5 @@
+/* Copyright (c) OpenMMLab. All rights reserved. */
+
 #include "pytorch_npu_helper.hpp"
 
 using namespace NPU_NAME_SPACE;

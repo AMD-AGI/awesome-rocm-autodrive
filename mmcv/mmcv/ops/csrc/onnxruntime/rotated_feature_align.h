@@ -1,3 +1,5 @@
+/* Copyright (c) OpenMMLab. All rights reserved. */
+
 #ifndef ONNXRUNTIME_ROTATED_FEATURE_ALIGN_H
 #define ONNXRUNTIME_ROTATED_FEATURE_ALIGN_H
 

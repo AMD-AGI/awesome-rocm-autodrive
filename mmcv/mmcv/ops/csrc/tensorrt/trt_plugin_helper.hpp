@@ -1,3 +1,5 @@
+/* Copyright (c) OpenMMLab. All rights reserved. */
+
 #ifndef TRT_PLUGIN_HELPER_HPP
 #define TRT_PLUGIN_HELPER_HPP
 #include <stdexcept>

@@ -1,3 +1,5 @@
+# Copyright (c) OpenMMLab. All rights reserved.
+
 import os
 from typing import Any, Dict, List, Optional, Tuple, Union
 

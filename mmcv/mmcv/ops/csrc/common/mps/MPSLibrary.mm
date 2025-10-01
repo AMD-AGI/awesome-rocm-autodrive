@@ -1,3 +1,5 @@
+# Copyright (c) OpenMMLab. All rights reserved.
+
 #include "MPSLibrary.h"
 #include "MPSDevice.h"
 

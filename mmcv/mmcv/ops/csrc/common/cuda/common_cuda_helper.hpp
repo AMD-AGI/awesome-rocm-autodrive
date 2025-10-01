@@ -1,3 +1,5 @@
+/* Copyright (c) OpenMMLab. All rights reserved. */
+
 #ifndef COMMON_CUDA_HELPER
 #define COMMON_CUDA_HELPER
 
