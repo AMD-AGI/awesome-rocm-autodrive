@@ -1,4 +1,6 @@
-# Copyright (c) OpenMMLab. All rights reserved.
+# Copyright (C) OpenMMLab. All rights reserved.
+#
+# SPDX-License-Identifier: MIT
 """This file holding some environment constant for sharing by other files."""
 
 import os.path as osp

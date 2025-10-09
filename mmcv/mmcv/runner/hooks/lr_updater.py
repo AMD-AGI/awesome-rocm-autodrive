@@ -1,4 +1,6 @@
-# Copyright (c) OpenMMLab. All rights reserved.
+# Copyright (C) OpenMMLab. All rights reserved.
+#
+# SPDX-License-Identifier: MIT
 import numbers
 from math import cos, pi
 from typing import Callable, List, Optional, Union

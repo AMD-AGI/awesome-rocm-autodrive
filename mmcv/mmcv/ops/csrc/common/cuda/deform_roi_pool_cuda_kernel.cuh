@@ -1,4 +1,6 @@
-// Copyright (c) OpenMMLab. All rights reserved
+// Copyright (C) OpenMMLab. All rights reserved
+//
+// SPDX-License-Identifier: MIT
 #ifndef DEFORM_ROI_POOL_CUDA_KERNEL_CUH
 #define DEFORM_ROI_POOL_CUDA_KERNEL_CUH
 

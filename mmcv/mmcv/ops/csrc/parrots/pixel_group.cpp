@@ -1,5 +1,6 @@
-// Copyright (c) OpenMMLab. All rights reserved
-// It is modified from https://github.com/WenmuZhou/PAN.pytorch
+// Copyright (C) OpenMMLab. All rights reserved
+//
+// SPDX-License-Identifier: MIT
 
 #include "pytorch_cpp_helper.hpp"
 #include "pytorch_device_registry.hpp"

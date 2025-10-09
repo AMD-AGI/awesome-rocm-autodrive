@@ -1,7 +1,6 @@
-// Copyright (c) OpenMMLab. All rights reserved
-// Modified from
-// https://github.com/vacancy/PreciseRoIPooling/blob/master/src/prroi_pooling_gpu_impl.cu
-// Distributed under terms of the MIT license.
+// Copyright (C) OpenMMLab. All rights reserved
+//
+// SPDX-License-Identifier: MIT
 #ifndef PRROI_POOL_CUDA_KERNEL_CUH
 #define PRROI_POOL_CUDA_KERNEL_CUH
 

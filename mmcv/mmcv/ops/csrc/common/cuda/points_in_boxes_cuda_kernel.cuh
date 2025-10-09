@@ -1,4 +1,6 @@
-// Copyright (c) OpenMMLab. All rights reserved
+// Copyright (C) OpenMMLab. All rights reserved
+//
+// SPDX-License-Identifier: MIT
 #ifndef POINT_IN_BOXES_CUDA_KERNEL_CUH
 #define POINT_IN_BOXES_CUDA_KERNEL_CUH
 

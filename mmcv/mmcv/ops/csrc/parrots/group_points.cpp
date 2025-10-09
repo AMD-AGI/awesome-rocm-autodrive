@@ -1,6 +1,6 @@
-// Copyright (c) OpenMMLab. All rights reserved.
-// Modified from
-// https://github.com/sshaoshuai/Pointnet2.PyTorch/tree/master/pointnet2/src/group_points.cpp
+// Copyright (C) OpenMMLab. All rights reserved.
+//
+// SPDX-License-Identifier: MIT
 
 #include "pytorch_cpp_helper.hpp"
 #include "pytorch_device_registry.hpp"

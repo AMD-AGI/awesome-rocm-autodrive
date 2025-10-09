@@ -1,7 +1,6 @@
-// Copyright (c) OpenMMLab. All rights reserved.
-// Modified from
-// https://github.com/ClementPinard/Pytorch-Correlation-extension/blob/master/Correlation_Module/correlation_cuda_kernel.cu
-// Original licence: Under MIT License
+// Copyright (C) OpenMMLab. All rights reserved.
+//
+// SPDX-License-Identifier: MIT
 
 #ifndef CORRELATION_CUDA
 #define CORRELATION_CUDA

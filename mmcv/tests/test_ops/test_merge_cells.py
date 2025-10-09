@@ -1,4 +1,6 @@
-# Copyright (c) OpenMMLab. All rights reserved.
+# Copyright (C) OpenMMLab. All rights reserved.
+#
+# SPDX-License-Identifier: MIT
 """
 CommandLine:
     pytest tests/test_merge_cells.py

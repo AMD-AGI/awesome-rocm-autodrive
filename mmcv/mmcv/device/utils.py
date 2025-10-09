@@ -1,4 +1,6 @@
-# Copyright (c) OpenMMLab. All rights reserved.
+# Copyright (C) OpenMMLab. All rights reserved.
+#
+# SPDX-License-Identifier: MIT
 from mmcv.utils import (IS_CUDA_AVAILABLE, IS_MLU_AVAILABLE, IS_MPS_AVAILABLE,
                         IS_NPU_AVAILABLE)
 

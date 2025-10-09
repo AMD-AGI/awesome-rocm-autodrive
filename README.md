@@ -1,3 +1,8 @@
+<!-- SPDX-FileCopyrightText: 2025 Advanced Micro Devices, Inc -->
+<!--
+SPDX-License-Identifier: MIT
+-->
+
 # awesome-rocm-autodrive
 **awesome-rocm-autodrive-training** is a collection of autonomous driving model training examples adapted and optimized for AMD GPUs using the ROCm platform.  
 This project provides an out-of-the-box (OOTB) training experience through ROCm-compatible MMCV, prebuilt Docker environments, and a wide range of real-world autonomous driving model examples.

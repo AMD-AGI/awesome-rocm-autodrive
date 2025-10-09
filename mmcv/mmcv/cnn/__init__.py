@@ -1,4 +1,6 @@
-# Copyright (c) OpenMMLab. All rights reserved.
+# Copyright (C) OpenMMLab. All rights reserved.
+#
+# SPDX-License-Identifier: MIT
 from .alexnet import AlexNet
 # yapf: disable
 from .bricks import (ACTIVATION_LAYERS, CONV_LAYERS, NORM_LAYERS,

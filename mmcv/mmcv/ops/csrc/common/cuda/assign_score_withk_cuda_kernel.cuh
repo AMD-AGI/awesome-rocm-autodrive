@@ -1,4 +1,6 @@
-// Copyright (c) OpenMMLab. All rights reserved
+// Copyright (C) OpenMMLab. All rights reserved
+//
+// SPDX-License-Identifier: MIT
 #ifndef ASSIGN_SCORE_WITHK_CUDA_KERNEL_CUH
 #define ASSIGN_SCORE_WITHK_CUDA_KERNEL_CUH
 

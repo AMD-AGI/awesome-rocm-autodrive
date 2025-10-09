@@ -1,6 +1,6 @@
-// Copyright (c) OpenMMLab. All rights reserved.
-// Modified from
-// https://github.com/SJTU-Thinklab-Det/r3det-on-mmdetection/blob/master/mmdet/ops/fr/src/feature_refine_kernel.cu
+// Copyright (C) OpenMMLab. All rights reserved.
+//
+// SPDX-License-Identifier: MIT
 #include "pytorch_cuda_helper.hpp"
 #include "rotated_feature_align_cuda_kernel.cuh"
 

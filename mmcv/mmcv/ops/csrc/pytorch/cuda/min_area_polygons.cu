@@ -1,6 +1,6 @@
-// Copyright (c) OpenMMLab. All rights reserved
-// modified from
-// https://github.com/SDL-GuoZonghao/BeyondBoundingBox/blob/main/mmdet/ops/minareabbox/src/minareabbox_kernel.cu
+// Copyright (C) OpenMMLab. All rights reserved
+//
+// SPDX-License-Identifier: MIT
 #include "min_area_polygons_cuda.cuh"
 #include "pytorch_cuda_helper.hpp"
 

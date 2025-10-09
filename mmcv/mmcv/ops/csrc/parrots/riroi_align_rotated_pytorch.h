@@ -1,3 +1,7 @@
+/*
+ * SPDX-License-Identifier: MIT
+ */
+
 // Copyright (c) OpenMMLab. All rights reserved
 #ifndef RIROI_ALIGN_ROTATED_PYTORCH_H
 #define RIROI_ALIGN_ROTATED_PYTORCH_H

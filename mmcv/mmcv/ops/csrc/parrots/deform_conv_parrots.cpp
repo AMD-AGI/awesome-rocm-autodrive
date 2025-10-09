@@ -1,4 +1,6 @@
-// Copyright (c) OpenMMLab. All rights reserved
+// Copyright (C) OpenMMLab. All rights reserved
+//
+// SPDX-License-Identifier: MIT
 #include <parrots/compute/aten.hpp>
 #include <parrots/extension.hpp>
 #include <parrots/foundation/ssattrs.hpp>

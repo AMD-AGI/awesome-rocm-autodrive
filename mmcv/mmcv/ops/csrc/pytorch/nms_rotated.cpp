@@ -1,6 +1,6 @@
-// Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved
-// modified from
-// https://github.com/facebookresearch/detectron2/blob/master/detectron2/layers/csrc/nms_rotated/nms_rotated.h
+// Copyright (C) Facebook, Inc. and its affiliates. All Rights Reserved
+//
+// SPDX-License-Identifier: MIT
 #include "pytorch_cpp_helper.hpp"
 
 Tensor nms_rotated_cpu(const Tensor dets, const Tensor scores,

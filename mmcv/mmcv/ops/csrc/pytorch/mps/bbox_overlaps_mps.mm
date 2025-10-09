@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 // Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved
 #include "pytorch_device_registry.hpp"
 

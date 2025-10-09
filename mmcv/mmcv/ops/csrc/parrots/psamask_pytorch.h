@@ -1,3 +1,7 @@
+/*
+ * SPDX-License-Identifier: MIT
+ */
+
 // Copyright (c) OpenMMLab. All rights reserved
 #ifndef PSAMASK_PYTORCH_H
 #define PSAMASK_PYTORCH_H

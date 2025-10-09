@@ -1,4 +1,6 @@
-/* Copyright (c) OpenMMLab. All rights reserved. */
+// Copyright (C) OpenMMLab. All rights reserved.
+//
+// SPDX-License-Identifier: MIT
 
 // Modified from
 // https://github.com/sshaoshuai/Pointnet2.PyTorch/tree/master/pointnet2/src/sampling.cpp

@@ -1,4 +1,6 @@
-// Copyright (c) OpenMMLab. All rights reserved
+// Copyright (C) OpenMMLab. All rights reserved
+//
+// SPDX-License-Identifier: MIT
 #ifndef NMS_CUDA_KERNEL_CUH
 #define NMS_CUDA_KERNEL_CUH
 

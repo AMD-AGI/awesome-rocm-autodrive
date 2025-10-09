@@ -1,3 +1,7 @@
+/*
+ * SPDX-License-Identifier: MIT
+ */
+
 // Copyright (c) OpenMMLab. All rights reserved
 #ifndef THREE_NN_PYTORCH_H
 #define THREE_NN_PYTORCH_H

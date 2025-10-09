@@ -1,4 +1,6 @@
-# Copyright (c) OpenMMLab. All rights reserved.
+# Copyright (C) OpenMMLab. All rights reserved.
+#
+# SPDX-License-Identifier: MIT
 from .base_module import BaseModule, ModuleDict, ModuleList, Sequential
 from .base_runner import BaseRunner
 from .builder import RUNNERS, build_runner

@@ -1,3 +1,8 @@
+<!-- SPDX-FileCopyrightText: 2025 Advanced Micro Devices, Inc -->
+<!--
+SPDX-License-Identifier: MIT
+-->
+
 ## 贡献代码
 
 欢迎加入 MMCV 社区，我们致力于打造最前沿的计算机视觉基础库，我们欢迎任何类型的贡献，包括但不限于

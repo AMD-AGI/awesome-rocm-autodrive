@@ -1,4 +1,6 @@
-/* Copyright (c) OpenMMLab. All rights reserved. */
+// Copyright (C) OpenMMLab. All rights reserved.
+//
+// SPDX-License-Identifier: MIT
 
 #ifndef TRT_DEFORM_CONV_HPP
 #define TRT_DEFORM_CONV_HPP

@@ -1,3 +1,7 @@
+/*
+ * SPDX-License-Identifier: MIT
+ */
+
 // Copyright (c) OpenMMLab. All rights reserved
 #ifndef ACTIVE_CHAMFER_DISTANCE_PYTORCH_H
 #define ACTIVE_CHAMFER_DISTANCE_PYTORCH_H

@@ -1,4 +1,6 @@
-/* Copyright (c) OpenMMLab. All rights reserved. */
+// Copyright (C) OpenMMLab. All rights reserved.
+//
+// SPDX-License-Identifier: MIT
 
 // Modified from
 // https://github.com/csuhan/ReDet/blob/master/mmdet/ops/riroi_align/src/riroi_align_kernel.cu

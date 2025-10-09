@@ -1,4 +1,6 @@
-/* Copyright (c) OpenMMLab. All rights reserved. */
+// Copyright (C) OpenMMLab. All rights reserved.
+//
+// SPDX-License-Identifier: MIT
 
 // Modified from
 // https://github.com/CVMI-Lab/PAConv/tree/main/scene_seg/lib/paconv_lib/src/gpu

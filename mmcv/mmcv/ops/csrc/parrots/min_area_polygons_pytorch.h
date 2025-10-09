@@ -1,3 +1,7 @@
+/*
+ * SPDX-License-Identifier: MIT
+ */
+
 // Copyright (c) OpenMMLab. All rights reserved
 #ifndef MIN_AREA_POLYGONS_PYTORCH_H
 #define MIN_AREA_POLYGONS_PYTORCH_H

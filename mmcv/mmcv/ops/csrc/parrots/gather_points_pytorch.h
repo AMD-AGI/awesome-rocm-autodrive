@@ -1,3 +1,7 @@
+/*
+ * SPDX-License-Identifier: MIT
+ */
+
 // Copyright (c) OpenMMLab. All rights reserved
 #ifndef GATHER_POINTS_PYTORCH_H
 #define GATHER_POINTS_PYTORCH_H

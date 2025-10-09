@@ -1,3 +1,7 @@
+/*
+ * SPDX-License-Identifier: MIT
+ */
+
 // Copyright (c) OpenMMLab. All rights reserved
 #ifndef FURTHEST_POINT_SAMPLE_PYTORCH_H
 #define FURTHEST_POINT_SAMPLE_PYTORCH_H

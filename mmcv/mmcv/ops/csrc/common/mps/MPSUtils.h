@@ -1,4 +1,8 @@
-/* Copyright (c) OpenMMLab. All rights reserved. */
+/*
+ * Copyright (C) OpenMMLab. All rights reserved.
+ *
+ * SPDX-License-Identifier: MIT
+ */
 
 #ifndef _MPS_UTILS_H_
 #define _MPS_UTILS_H_

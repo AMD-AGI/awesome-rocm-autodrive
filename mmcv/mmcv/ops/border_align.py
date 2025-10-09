@@ -1,6 +1,6 @@
-# Copyright (c) OpenMMLab. All rights reserved.
-# modified from
-# https://github.com/Megvii-BaseDetection/cvpods/blob/master/cvpods/layers/border_align.py
+# Copyright (C) OpenMMLab. All rights reserved.
+#
+# SPDX-License-Identifier: MIT
 
 from typing import Tuple
 

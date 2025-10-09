@@ -1,3 +1,7 @@
+/*
+ * SPDX-License-Identifier: MIT
+ */
+
 // Copyright (c) OpenMMLab. All rights reserved
 #ifndef BORDER_ALIGN_PYTORCH_H
 #define BORDER_ALIGN_PYTORCH_H

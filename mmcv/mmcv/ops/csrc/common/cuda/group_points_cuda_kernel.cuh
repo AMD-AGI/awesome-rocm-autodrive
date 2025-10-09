@@ -1,6 +1,6 @@
-// Copyright (c) OpenMMLab. All rights reserved.
-// Modified from
-// https://github.com/sshaoshuai/Pointnet2.PyTorch/tree/master/pointnet2/src/group_points_gpu.cu
+// Copyright (C) OpenMMLab. All rights reserved.
+//
+// SPDX-License-Identifier: MIT
 #ifndef GROUP_POINTS_CUDA_KERNEL_CUH
 #define GROUP_POINTS_CUDA_KERNEL_CUH
 

@@ -1,6 +1,6 @@
-// Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved
-// modified from
-// https://github.com/facebookresearch/detectron2/blob/master/detectron2/layers/csrc/nms_rotated/nms_rotated_cuda.cu
+// Copyright (C) Facebook, Inc. and its affiliates. All Rights Reserved
+//
+// SPDX-License-Identifier: MIT
 #ifndef NMS_ROTATED_CUDA_CUH
 #define NMS_ROTATED_CUDA_CUH
 

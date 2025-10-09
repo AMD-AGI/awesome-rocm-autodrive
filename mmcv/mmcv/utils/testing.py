@@ -1,4 +1,6 @@
-# Copyright (c) Open-MMLab.
+# Copyright (C) Open-MMLab.
+#
+# SPDX-License-Identifier: MIT
 import sys
 from collections.abc import Iterable
 from runpy import run_path

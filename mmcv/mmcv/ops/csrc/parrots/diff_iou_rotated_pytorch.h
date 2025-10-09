@@ -1,3 +1,7 @@
+/*
+ * SPDX-License-Identifier: MIT
+ */
+
 // Copyright (c) OpenMMLab. All rights reserved
 #ifndef DIFF_IOU_ROTATED_PYTORCH_H
 #define DIFF_IOU_ROTATED_PYTORCH_H

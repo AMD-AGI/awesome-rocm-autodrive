@@ -1,3 +1,8 @@
+<!-- SPDX-FileCopyrightText: 2025 Advanced Micro Devices, Inc -->
+<!--
+SPDX-License-Identifier: MIT
+-->
+
 # Licenses for special operations
 
 In this file, we list the operations with other licenses instead of Apache 2.0. Users should be careful about adopting these operations in any commercial matters.

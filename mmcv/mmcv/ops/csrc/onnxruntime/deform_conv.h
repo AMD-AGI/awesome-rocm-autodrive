@@ -1,3 +1,7 @@
+/*
+ * SPDX-License-Identifier: MIT
+ */
+
 // Copyright (c) OpenMMLab. All rights reserved
 #ifndef ONNXRUNTIME_DEFORM_CONV_H
 #define ONNXRUNTIME_DEFORM_CONV_H

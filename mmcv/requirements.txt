@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: MIT
+
 -r requirements/build.txt
 -r requirements/optional.txt
 -r requirements/runtime.txt

@@ -1,5 +1,6 @@
-// Copyright (c) OpenMMLab. All rights reserved
-// It is modified from https://github.com/whai362/PSENet
+// Copyright (C) OpenMMLab. All rights reserved
+//
+// SPDX-License-Identifier: MIT
 #include <iostream>
 #include <queue>
 

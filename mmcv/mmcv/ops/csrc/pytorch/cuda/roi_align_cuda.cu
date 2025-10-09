@@ -1,4 +1,6 @@
-// Copyright (c) OpenMMLab. All rights reserved
+// Copyright (C) OpenMMLab. All rights reserved
+//
+// SPDX-License-Identifier: MIT
 #include "pytorch_cuda_helper.hpp"
 #include "roi_align_cuda_kernel.cuh"
 

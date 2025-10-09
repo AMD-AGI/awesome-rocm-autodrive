@@ -1,0 +1,16 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: your-project-name
+Upstream-Contact: Mingjie <example@email.com>
+Source: .
+
+Files: *.txt
+Copyright: 2025 Advanced Micro Devices, Inc.
+License: MIT
+
+Files: *.cff
+Copyright: 2025 Advanced Micro Devices, Inc.
+License: MIT
+
+Files: *.json
+Copyright: 2025 Advanced Micro Devices, Inc.
+License: MIT

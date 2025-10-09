@@ -1,4 +1,6 @@
-// Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved
+// Copyright (C) Facebook, Inc. and its affiliates. All Rights Reserved
+//
+// SPDX-License-Identifier: MIT
 #include "box_iou_rotated_utils.hpp"
 #include "pytorch_cpp_helper.hpp"
 

@@ -1,4 +1,6 @@
-// Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved
+// Copyright (C) Facebook, Inc. and its affiliates. All Rights Reserved
+//
+// SPDX-License-Identifier: MIT
 #include "nms_quadri_cuda.cuh"
 #include "pytorch_cuda_helper.hpp"
 

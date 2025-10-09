@@ -1,3 +1,8 @@
+<!-- SPDX-FileCopyrightText: 2025 Advanced Micro Devices, Inc -->
+<!--
+SPDX-License-Identifier: MIT
+-->
+
 ## PointPillars
 1. Dataset Preparation
 - Check and follow the instruction in `scripts/prepare_nuscenes.sh` to set related variables properly and run the script to prepare the nuScenes dataset.

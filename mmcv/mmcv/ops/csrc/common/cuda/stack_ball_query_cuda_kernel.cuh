@@ -1,6 +1,6 @@
-// Copyright (c) OpenMMLab. All rights reserved
-// Modified from
-// https://github.com/sshaoshuai/Pointnet2.PyTorch/tree/master/pointnet2/src/ball_query_gpu.cu
+// Copyright (C) OpenMMLab. All rights reserved
+//
+// SPDX-License-Identifier: MIT
 #ifndef STACK_BALL_QUERY_CUDA_KERNEL_CUH
 #define STACK_BALL_QUERY_CUDA_KERNEL_CUH
 

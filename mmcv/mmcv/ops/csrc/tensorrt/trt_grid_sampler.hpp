@@ -1,4 +1,6 @@
-/* Copyright (c) OpenMMLab. All rights reserved. */
+// Copyright (C) OpenMMLab. All rights reserved.
+//
+// SPDX-License-Identifier: MIT
 
 #ifndef TRT_GRID_SAMPLER_HPP
 #define TRT_GRID_SAMPLER_HPP

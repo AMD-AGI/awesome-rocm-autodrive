@@ -1,6 +1,6 @@
-// Copyright (c) OpenMMLab. All rights reserved
-// Adapted from
-// https://github.com/lilanxiao/Rotated_IoU/cuda_op/sort_vert_kernel.cu  # noqa
+// Copyright (C) OpenMMLab. All rights reserved
+//
+// SPDX-License-Identifier: MIT
 #ifdef MMCV_USE_PARROTS
 #include "parrots_cuda_helper.hpp"
 #else

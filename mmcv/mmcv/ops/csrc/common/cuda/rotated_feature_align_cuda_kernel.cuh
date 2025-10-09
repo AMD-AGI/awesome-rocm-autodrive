@@ -1,6 +1,6 @@
-// Copyright (c) OpenMMLab. All rights reserved.
-// Modified from
-// https://github.com/SJTU-Thinklab-Det/r3det-on-mmdetection/blob/master/mmdet/ops/fr/src/feature_refine_kernel.cu
+// Copyright (C) OpenMMLab. All rights reserved.
+//
+// SPDX-License-Identifier: MIT
 #ifndef ROTATED_FEATURE_ALIGN_CUDA_KERNEL_CUH
 #define ROTATED_FEATURE_ALIGN_CUDA_KERNEL_CUH
 

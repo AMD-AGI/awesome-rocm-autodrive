@@ -1,8 +1,6 @@
-# Copyright (c) OpenMMLab. All rights reserved.
-# Code reference from "Temporal Interlacing Network"
-# https://github.com/deepcs233/TIN/blob/master/cuda_shift/rtc_wrap.py
-# Hao Shao, Shengju Qian, Yu Liu
-# shaoh19@mails.tsinghua.edu.cn, sjqian@cse.cuhk.edu.hk, yuliu@ee.cuhk.edu.hk
+# Copyright (C) OpenMMLab. All rights reserved.
+#
+# SPDX-License-Identifier: MIT
 
 import torch
 import torch.nn as nn

@@ -1,3 +1,7 @@
+/*
+ * SPDX-License-Identifier: MIT
+ */
+
 // Copyright (c) OpenMMLab. All rights reserved
 #ifndef ROIAWARE_POOL3D_PYTORCH_H
 #define ROIAWARE_POOL3D_PYTORCH_H

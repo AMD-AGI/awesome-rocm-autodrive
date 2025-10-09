@@ -1,3 +1,7 @@
+/*
+ * SPDX-License-Identifier: MIT
+ */
+
 // Copyright (c) OpenMMLab. All rights reserved
 #ifndef BBOX_OVERLAPS_PYTORCH_H
 #define BBOX_OVERLAPS_PYTORCH_H

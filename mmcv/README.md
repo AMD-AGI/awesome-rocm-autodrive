@@ -1,3 +1,8 @@
+<!-- SPDX-FileCopyrightText: 2025 Advanced Micro Devices, Inc -->
+<!--
+SPDX-License-Identifier: MIT
+-->
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/open-mmlab/mmcv/master/docs/en/mmcv-logo.png" width="300"/>
   <div>&nbsp;</div>

@@ -1,4 +1,6 @@
-// Copyright (c) OpenMMLab. All rights reserved
+// Copyright (C) OpenMMLab. All rights reserved
+//
+// SPDX-License-Identifier: MIT
 #ifndef THREE_INTERPOLATE_CUDA_KERNEL_CUH
 #define THREE_INTERPOLATE_CUDA_KERNEL_CUH
 

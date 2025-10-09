@@ -1,4 +1,8 @@
-/* Copyright (c) OpenMMLab. All rights reserved. */
+/*
+ * Copyright (C) OpenMMLab. All rights reserved.
+ *
+ * SPDX-License-Identifier: MIT
+ */
 
 #ifndef ONNXRUNTIME_ROTATED_FEATURE_ALIGN_H
 #define ONNXRUNTIME_ROTATED_FEATURE_ALIGN_H

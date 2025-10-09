@@ -1,4 +1,6 @@
-/* Copyright (c) OpenMMLab. All rights reserved. */
+// Copyright (C) OpenMMLab. All rights reserved.
+//
+// SPDX-License-Identifier: MIT
 
 #ifndef PYTORCH_CUDA_HELPER
 #define PYTORCH_CUDA_HELPER

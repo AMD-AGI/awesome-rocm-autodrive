@@ -1,3 +1,7 @@
+/*
+ * SPDX-License-Identifier: MIT
+ */
+
 // Copyright (c) OpenMMLab. All rights reserved
 #ifndef ASSIGN_SCORE_WITHK_PYTORCH_H
 #define ASSIGN_SCORE_WITHK_PYTORCH_H

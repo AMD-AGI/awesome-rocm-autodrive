@@ -1,3 +1,7 @@
+/*
+ * SPDX-License-Identifier: MIT
+ */
+
 // Copyright (c) OpenMMLab. All rights reserved
 #ifndef DEFORM_ROI_POOL_PYTORCH_H
 #define DEFORM_ROI_POOL_PYTORCH_H

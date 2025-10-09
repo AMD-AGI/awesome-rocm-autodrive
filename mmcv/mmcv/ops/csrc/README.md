@@ -1,3 +1,8 @@
+<!-- SPDX-FileCopyrightText: 2025 Advanced Micro Devices, Inc -->
+<!--
+SPDX-License-Identifier: MIT
+-->
+
 # Code Structure of CUDA operators
 
 This folder contains all non-python code for MMCV custom ops. Please follow the same architecture if you want to add new ops.

@@ -1,3 +1,8 @@
+<!-- SPDX-FileCopyrightText: 2025 Advanced Micro Devices, Inc -->
+<!--
+SPDX-License-Identifier: MIT
+-->
+
 # English-Chinese terminology comparison (英汉术语对照)
 
 This document is used as a reference for English-Chinese terminology translation.

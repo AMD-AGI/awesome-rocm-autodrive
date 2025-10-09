@@ -1,4 +1,6 @@
-# Copyright (c) OpenMMLab. All rights reserved.
+# Copyright (C) OpenMMLab. All rights reserved.
+#
+# SPDX-License-Identifier: MIT
 from .color import Color, color_val
 from .image import imshow, imshow_bboxes, imshow_det_bboxes
 from .optflow import flow2rgb, flowshow, make_color_wheel

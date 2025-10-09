@@ -1,6 +1,6 @@
-// Copyright (c) OpenMMLab. All rights reserved.
-// Modified from
-// https://github.com/csuhan/s2anet/blob/master/mmdet/ops/orn/src/cuda/ActiveRotatingFilter_cuda.cu
+// Copyright (C) OpenMMLab. All rights reserved.
+//
+// SPDX-License-Identifier: MIT
 #ifndef ACTIVE_ROTATED_FILTER_CUDA_KERNEL_CUH
 #define ACTIVE_ROTATED_FILTER_CUDA_KERNEL_CUH
 

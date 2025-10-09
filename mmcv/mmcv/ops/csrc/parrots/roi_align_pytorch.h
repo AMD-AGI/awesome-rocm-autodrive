@@ -1,3 +1,7 @@
+/*
+ * SPDX-License-Identifier: MIT
+ */
+
 // Copyright (c) OpenMMLab. All rights reserved
 #ifndef ROI_ALIGN_PYTORCH_H
 #define ROI_ALIGN_PYTORCH_H

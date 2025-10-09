@@ -1,5 +1,7 @@
 # Copyright Huawei Technologies Co., Ltd. All rights reserved.
-# Copyright (c) OpenMMLab. All rights reserved.
+# Copyright (C) OpenMMLab. All rights reserved.
+#
+# SPDX-License-Identifier: MIT
 
 from mmcv.device.scatter_gather import scatter_kwargs
 from mmcv.parallel import MMDistributedDataParallel

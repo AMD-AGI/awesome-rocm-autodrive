@@ -1,6 +1,6 @@
-// Copyright (c) OpenMMLab. All rights reserved
-// modified from
-// https://github.com/SDL-GuoZonghao/BeyondBoundingBox/tree/main/mmdet/ops/iou/src
+// Copyright (C) OpenMMLab. All rights reserved
+//
+// SPDX-License-Identifier: MIT
 #include "pytorch_cpp_helper.hpp"
 #include "pytorch_device_registry.hpp"
 

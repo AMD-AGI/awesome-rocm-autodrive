@@ -1,4 +1,6 @@
-// Copyright (c) OpenMMLab. All rights reserved
+// Copyright (C) OpenMMLab. All rights reserved
+//
+// SPDX-License-Identifier: MIT
 #include "common_cuda_helper.hpp"
 #include "trt_cuda_helper.cuh"
 #include "trt_plugin_helper.hpp"

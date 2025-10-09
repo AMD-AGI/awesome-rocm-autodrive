@@ -1,3 +1,8 @@
+<!-- SPDX-FileCopyrightText: 2025 Advanced Micro Devices, Inc -->
+<!--
+SPDX-License-Identifier: MIT
+-->
+
 ## FlashOCC
 1. Prepare nuScenes dataset as introduced in nuscenes_det.md and create the pkl for FlashOCC by running:
 ````

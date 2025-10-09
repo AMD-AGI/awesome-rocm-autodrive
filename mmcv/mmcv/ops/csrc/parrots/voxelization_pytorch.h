@@ -1,3 +1,7 @@
+/*
+ * SPDX-License-Identifier: MIT
+ */
+
 // Copyright (c) OpenMMLab. All rights reserved
 #ifndef VOXELIZATION_PYTORCH_H
 #define VOXELIZATION_PYTORCH_H

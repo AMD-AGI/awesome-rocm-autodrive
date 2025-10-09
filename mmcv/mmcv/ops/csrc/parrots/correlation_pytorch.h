@@ -1,3 +1,7 @@
+/*
+ * SPDX-License-Identifier: MIT
+ */
+
 // Copyright (c) OpenMMLab. All rights reserved
 #ifndef CORRELATION_PYTORCH_H
 #define CORRELATION_PYTORCH_H

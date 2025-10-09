@@ -1,6 +1,6 @@
-// Copyright (c) OpenMMLab. All rights reserved
-// Modified from:
-// https://github.com/NVIDIA/TensorRT/blob/master/plugin/instanceNormalizationPlugin/instanceNormalizationPlugin.cpp
+// Copyright (C) OpenMMLab. All rights reserved
+//
+// SPDX-License-Identifier: MIT
 
 #include "trt_instance_norm.hpp"
 

@@ -1,3 +1,7 @@
+/*
+ * SPDX-License-Identifier: MIT
+ */
+
 // Copyright (c) OpenMMLab. All rights reserved
 #ifndef THREE_INTERPOLATE_PYTORCH_H
 #define THREE_INTERPOLATE_PYTORCH_H
