@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2025 Advanced Micro Devices, Inc
+
+SPDX-License-Identifier: MIT
+-->
 ## Sparse4D
 To enable training in AMD ROCm platform, small modifications are needed:
 

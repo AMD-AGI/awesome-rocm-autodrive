@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2025 Advanced Micro Devices, Inc
+
+SPDX-License-Identifier: MIT
+-->
 # Backbone
 
 Example of backbone model training is based on [pytorch vision](https://github.com/pytorch/vision), We also forked a [version](https://github.com/amd-fuweiy/vision) and added some features to get better performance in ROCm.

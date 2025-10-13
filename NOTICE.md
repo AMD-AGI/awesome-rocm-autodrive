@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2025 Advanced Micro Devices, Inc
+
+SPDX-License-Identifier: MIT
+-->
 ## Licenses for Special Components
 
 This project includes third-party components originally licensed under terms different from the main project license.  

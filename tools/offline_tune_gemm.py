@@ -1,8 +1,6 @@
-###############################################################################
-# Copyright (c) 2025, Advanced Micro Devices, Inc. All rights reserved.
+# Copyright (C) 2025 Advanced Micro Devices, Inc. All rights reserved.
 #
-# See LICENSE for license information.
-###############################################################################
+# SPDX-License-Identifier: MIT
 
 # reference to https://github.com/AMD-AIG-AIMA/Primus/tree/main/examples/offline_tune for more details
 
