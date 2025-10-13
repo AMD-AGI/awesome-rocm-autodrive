@@ -1,6 +1,6 @@
-// Copyright (C) OpenMMLab. All rights reserved
-//
-// SPDX-License-Identifier: MIT
+// Copyright (c) OpenMMLab. All rights reserved
+// Modified from
+// https://github.com/ming71/CUDA/blob/master/point_justify/points_justify_kernel.cu
 
 #include <stdio.h>
 

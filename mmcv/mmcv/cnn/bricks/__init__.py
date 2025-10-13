@@ -1,6 +1,4 @@
-# Copyright (C) OpenMMLab. All rights reserved.
-#
-# SPDX-License-Identifier: MIT
+# Copyright (c) OpenMMLab. All rights reserved.
 from .activation import build_activation_layer
 from .context_block import ContextBlock
 from .conv import build_conv_layer

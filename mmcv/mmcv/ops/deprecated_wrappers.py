@@ -1,6 +1,6 @@
-# Copyright (C) OpenMMLab. All rights reserved.
-#
-# SPDX-License-Identifier: MIT
+# Copyright (c) OpenMMLab. All rights reserved.
+# This file is for backward compatibility.
+# Module wrappers for empty tensor have been moved to mmcv.cnn.bricks.
 import warnings
 
 from ..cnn.bricks.wrappers import Conv2d, ConvTranspose2d, Linear, MaxPool2d

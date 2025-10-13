@@ -1,6 +1,4 @@
-// Copyright (C) OpenMMLab. All rights reserved
-//
-// SPDX-License-Identifier: MIT
+// Copyright (c) OpenMMLab. All rights reserved
 #ifndef FURTHEST_POINT_SAMPLE_CUDA_KERNEL_CUH
 #define FURTHEST_POINT_SAMPLE_CUDA_KERNEL_CUH
 

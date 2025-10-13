@@ -1,6 +1,4 @@
-// Copyright (C) OpenMMLab. All rights reserved
-//
-// SPDX-License-Identifier: MIT
+// Copyright (c) OpenMMLab. All rights reserved
 #include "corner_pool.h"
 
 #include "../ort_mmcv_utils.h"

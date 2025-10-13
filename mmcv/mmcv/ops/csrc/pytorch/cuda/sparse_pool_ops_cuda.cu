@@ -1,6 +1,4 @@
-// Copyright (C) OpenMMLab. All rights reserved.
-//
-// SPDX-License-Identifier: MIT
+/* Copyright (c) OpenMMLab. All rights reserved. */
 
 #include <cuda_runtime_api.h>
 #include <torch/script.h>

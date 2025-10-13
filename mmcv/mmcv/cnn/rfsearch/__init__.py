@@ -1,6 +1,4 @@
-# Copyright (C) OpenMMLab. All rights reserved.
-#
-# SPDX-License-Identifier: MIT
+# Copyright (c) OpenMMLab. All rights reserved.
 from .operator import BaseConvRFSearchOp, Conv2dRFSearchOp
 from .search import RFSearchHook
 

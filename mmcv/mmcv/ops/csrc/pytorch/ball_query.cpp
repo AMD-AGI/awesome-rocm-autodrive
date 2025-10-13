@@ -1,6 +1,4 @@
-// Copyright (C) OpenMMLab. All rights reserved.
-//
-// SPDX-License-Identifier: MIT
+/* Copyright (c) OpenMMLab. All rights reserved. */
 
 // Modified from
 // https://github.com/sshaoshuai/Pointnet2.PyTorch/tree/master/pointnet2/src/ball_query.cpp

@@ -1,6 +1,4 @@
-// Copyright (C) OpenMMLab. All rights reserved.
-//
-// SPDX-License-Identifier: MIT
+/* Copyright (c) OpenMMLab. All rights reserved. */
 
 #ifndef PYTORCH_DEVICE_REGISTRY_H
 #define PYTORCH_DEVICE_REGISTRY_H

@@ -1,6 +1,4 @@
-# Copyright (C) OpenMMLab. All rights reserved.
-#
-# SPDX-License-Identifier: MIT
+# Copyright (c) OpenMMLab. All rights reserved.
 from .file_client import BaseStorageBackend, FileClient
 from .handlers import BaseFileHandler, JsonHandler, PickleHandler, YamlHandler
 from .io import dump, load, register_handler

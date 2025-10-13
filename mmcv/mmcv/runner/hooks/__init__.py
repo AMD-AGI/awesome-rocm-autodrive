@@ -1,6 +1,4 @@
-# Copyright (C) OpenMMLab. All rights reserved.
-#
-# SPDX-License-Identifier: MIT
+# Copyright (c) OpenMMLab. All rights reserved.
 from .checkpoint import CheckpointHook
 from .closure import ClosureHook
 from .ema import EMAHook

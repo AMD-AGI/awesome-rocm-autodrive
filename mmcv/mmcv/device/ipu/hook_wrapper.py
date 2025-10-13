@@ -1,6 +1,4 @@
-# Copyright (C) OpenMMLab. All rights reserved.
-#
-# SPDX-License-Identifier: MIT
+# Copyright (c) OpenMMLab. All rights reserved.
 from mmcv.runner import HOOKS, LrUpdaterHook, OptimizerHook
 from mmcv.utils import TORCH_VERSION, digit_version
 

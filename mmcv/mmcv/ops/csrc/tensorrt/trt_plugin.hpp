@@ -1,6 +1,4 @@
-// Copyright (C) OpenMMLab. All rights reserved.
-//
-// SPDX-License-Identifier: MIT
+/* Copyright (c) OpenMMLab. All rights reserved. */
 
 #ifndef TRT_PLUGIN_HPP
 #define TRT_PLUGIN_HPP

@@ -1,7 +1,3 @@
-/*
- * SPDX-License-Identifier: MIT
- */
-
 // Copyright (c) OpenMMLab. All rights reserved
 #ifndef PRROI_POOL_PYTORCH_H
 #define PRROI_POOL_PYTORCH_H

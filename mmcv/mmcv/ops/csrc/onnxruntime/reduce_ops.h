@@ -1,7 +1,3 @@
-/*
- * SPDX-License-Identifier: MIT
- */
-
 // Copyright (c) OpenMMLab. All rights reserved
 #ifndef ONNXRUNTIME_REDUCE_OPS_H
 #define ONNXRUNTIME_REDUCE_OPS_H

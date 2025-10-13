@@ -1,6 +1,4 @@
-// Copyright (C) OpenMMLab. All rights reserved
-//
-// SPDX-License-Identifier: MIT
+// Copyright (c) OpenMMLab. All rights reserved
 #include <cublas_v2.h>
 
 #include "common_cuda_helper.hpp"

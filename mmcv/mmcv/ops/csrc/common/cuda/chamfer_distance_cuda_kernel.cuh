@@ -1,6 +1,6 @@
-// Copyright (C) OpenMMLab. All rights reserved.
-//
-// SPDX-License-Identifier: MIT
+// Copyright (c) OpenMMLab. All rights reserved.
+// Modified from
+// https://github.com/chrdiller/pyTorchChamferDistance/blob/master/chamfer_distance/chamfer_distance.cu
 #ifndef CHAMFER_DISTANCE_CUDA_KERNEL_CUH
 #define CHAMFER_DISTANCE_CUDA_KERNEL_CUH
 

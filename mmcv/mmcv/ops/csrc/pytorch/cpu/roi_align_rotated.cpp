@@ -1,6 +1,6 @@
-// Copyright (C) Facebook, Inc. and its affiliates. All Rights Reserved
-//
-// SPDX-License-Identifier: MIT
+// Modified from
+// https://github.com/facebookresearch/detectron2/tree/master/detectron2/layers/csrc/ROIAlignRotated
+// Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved
 #include <ATen/ATen.h>
 #include <ATen/TensorUtils.h>
 

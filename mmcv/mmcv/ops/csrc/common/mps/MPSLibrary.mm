@@ -1,4 +1,3 @@
-# SPDX-License-Identifier: MIT
 # Copyright (c) OpenMMLab. All rights reserved.
 
 #include "MPSLibrary.h"

@@ -1,7 +1,3 @@
-/*
- * SPDX-License-Identifier: MIT
- */
-
 // Copyright (c) OpenMMLab. All rights reserved
 #ifndef BALL_QUERY_PYTORCH_H
 #define BALL_QUERY_PYTORCH_H

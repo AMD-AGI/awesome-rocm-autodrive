@@ -1,6 +1,10 @@
-// Copyright (C) 2019 NVIDIA Corporation. All rights reserved.
+// Modified from
+// https://github.com/rosinality/stylegan2-pytorch/blob/master/op/fused_bias_act_kernel.cu
+// Copyright (c) 2019, NVIDIA Corporation. All rights reserved.
 //
-// SPDX-License-Identifier: MIT
+// This work is made available under the Nvidia Source Code License-NC.
+// To view a copy of this license, visit
+// https://nvlabs.github.io/stylegan2/license.html
 
 #include <ATen/ATen.h>
 #include <ATen/AccumulateType.h>

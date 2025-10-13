@@ -1,7 +1,5 @@
-# Copyright (C) Facebook, Inc. and its affiliates. All Rights Reserved
-# Copyright (C) OpenMMLab. All rights reserved.
-#
-# SPDX-License-Identifier: MIT
+# Copyright (c) OpenMMLab. All rights reserved.
+# Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved
 import functools
 import os
 import socket

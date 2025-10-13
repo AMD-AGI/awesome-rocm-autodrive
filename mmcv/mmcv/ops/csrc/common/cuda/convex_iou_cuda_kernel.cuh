@@ -1,6 +1,4 @@
-// Copyright (C) OpenMMLab. All rights reserved
-//
-// SPDX-License-Identifier: MIT
+// Copyright (c) OpenMMLab. All rights reserved
 #ifndef CONVEX_IOU_CUDA_KERNEL_CUH
 #define CONVEX_IOU_CUDA_KERNEL_CUH
 

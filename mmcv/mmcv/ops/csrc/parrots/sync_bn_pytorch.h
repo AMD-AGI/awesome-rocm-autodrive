@@ -1,7 +1,3 @@
-/*
- * SPDX-License-Identifier: MIT
- */
-
 // Copyright (c) OpenMMLab. All rights reserved
 #ifndef SYNC_BN_PYTORCH_H
 #define SYNC_BN_PYTORCH_H

@@ -1,6 +1,4 @@
-// Copyright (C) OpenMMLab. All rights reserved
-//
-// SPDX-License-Identifier: MIT
+// Copyright (c) OpenMMLab. All rights reserved
 #ifndef ROI_POOL_CUDA_KERNEL_CUH
 #define ROI_POOL_CUDA_KERNEL_CUH
 

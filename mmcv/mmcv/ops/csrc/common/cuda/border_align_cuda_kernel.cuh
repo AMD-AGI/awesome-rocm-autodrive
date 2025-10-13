@@ -1,6 +1,9 @@
-// Copyright (C) OpenMMLab. All rights reserved
-//
-// SPDX-License-Identifier: MIT
+// Copyright (c) OpenMMLab. All rights reserved
+// modified from
+// https://github.com/Megvii-BaseDetection/cvpods/blob/master/cvpods/layers/csrc/border_align/border_align_kernel.cu.
+// the main difference: (1) use `argmax_idx` for fast computing of gradient
+// during the backward. (2) `wh` is directly computed by `boxes`, rather than
+// passing it as argument to forward or backward functions.
 
 #ifndef BORDER_ALIGN_CUDA_KERNEL_CUH
 #define BORDER_ALIGN_CUDA_KERNEL_CUH

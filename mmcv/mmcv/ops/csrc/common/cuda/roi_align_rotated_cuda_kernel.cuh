@@ -1,6 +1,6 @@
-// Copyright (C) Facebook, Inc. and its affiliates. All Rights Reserved
-//
-// SPDX-License-Identifier: MIT
+// Modified from
+// https://github.com/facebookresearch/detectron2/tree/master/detectron2/layers/csrc/ROIAlignRotated
+// Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved
 #ifndef ROI_ALIGN_ROTATED_CUDA_KERNEL_CUH
 #define ROI_ALIGN_ROTATED_CUDA_KERNEL_CUH
 

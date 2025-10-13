@@ -1,6 +1,4 @@
-// Copyright (C) OpenMMLab. All rights reserved
-//
-// SPDX-License-Identifier: MIT
+// Copyright (c) OpenMMLab. All rights reserved
 #ifndef SOFTMAX_FOCAL_LOSS_CUDA_KERNEL_CUH
 #define SOFTMAX_FOCAL_LOSS_CUDA_KERNEL_CUH
 

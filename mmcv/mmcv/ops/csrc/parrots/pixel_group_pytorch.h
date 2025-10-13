@@ -1,7 +1,3 @@
-/*
- * SPDX-License-Identifier: MIT
- */
-
 // Copyright (c) OpenMMLab. All rights reserved
 #ifndef PIXEL_GROUP_PYTORCH_H
 #define PIXEL_GROUP_PYTORCH_H

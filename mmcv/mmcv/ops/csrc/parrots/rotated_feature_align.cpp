@@ -1,6 +1,6 @@
-// Copyright (C) OpenMMLab. All rights reserved.
-//
-// SPDX-License-Identifier: MIT
+// Copyright (c) OpenMMLab. All rights reserved.
+// Modified from
+// https://github.com/SJTU-Thinklab-Det/r3det-on-mmdetection/blob/master/mmdet/ops/fr/src/feature_refine_cuda.cpp
 
 #include "pytorch_cpp_helper.hpp"
 #include "pytorch_device_registry.hpp"

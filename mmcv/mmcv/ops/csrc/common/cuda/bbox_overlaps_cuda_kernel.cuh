@@ -1,6 +1,4 @@
-// Copyright (C) OpenMMLab. All rights reserved
-//
-// SPDX-License-Identifier: MIT
+// Copyright (c) OpenMMLab. All rights reserved
 #ifndef BBOX_OVERLAPS_CUDA_KERNEL_CUH
 #define BBOX_OVERLAPS_CUDA_KERNEL_CUH
 

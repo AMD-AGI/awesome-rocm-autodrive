@@ -1,7 +1,3 @@
-/*
- * SPDX-License-Identifier: MIT
- */
-
 // Copyright 2019 Yan Yan
 //
 // Licensed under the Apache License, Version 2.0 (the "License");

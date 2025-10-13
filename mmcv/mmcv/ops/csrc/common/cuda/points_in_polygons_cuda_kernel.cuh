@@ -1,6 +1,4 @@
-// Copyright (C) OpenMMLab. All rights reserved
-//
-// SPDX-License-Identifier: MIT
+// Copyright (c) OpenMMLab. All rights reserved
 #ifndef POINTS_IN_POLYGONS_CUDA_KERNEL_CUH
 #define POINTS_IN_POLYGONS_CUDA_KERNEL_CUH
 

@@ -1,6 +1,4 @@
-// Copyright (C) OpenMMLab. All rights reserved
-//
-// SPDX-License-Identifier: MIT
+// Copyright (c) OpenMMLab. All rights reserved
 #ifndef ROI_ALIGN_CUDA_KERNEL_CUH
 #define ROI_ALIGN_CUDA_KERNEL_CUH
 

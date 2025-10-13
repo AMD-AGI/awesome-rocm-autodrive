@@ -1,6 +1,4 @@
-// Copyright (C) OpenMMLab. All rights reserved
-//
-// SPDX-License-Identifier: MIT
+// Copyright (c) OpenMMLab. All rights reserved
 #ifndef SCATTER_POINTS_CUDA_KERNEL_CUH
 #define SCATTER_POINTS_CUDA_KERNEL_CUH
 

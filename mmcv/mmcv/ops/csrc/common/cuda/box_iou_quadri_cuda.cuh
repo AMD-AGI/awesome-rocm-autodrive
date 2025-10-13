@@ -1,6 +1,4 @@
-// Copyright (C) Facebook, Inc. and its affiliates. All Rights Reserved
-//
-// SPDX-License-Identifier: MIT
+// Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved
 #ifndef BOX_IOU_QUADRI_CUDA_CUH
 #define BOX_IOU_QUADRI_CUDA_CUH
 

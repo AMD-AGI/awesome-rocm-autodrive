@@ -1,6 +1,4 @@
-// Copyright (C) OpenMMLab. All rights reserved
-//
-// SPDX-License-Identifier: MIT
+// Copyright (c) OpenMMLab. All rights reserved
 #include "deform_roi_pool_cuda_kernel.cuh"
 #include "pytorch_cuda_helper.hpp"
 

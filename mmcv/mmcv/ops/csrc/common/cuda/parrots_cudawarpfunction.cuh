@@ -1,6 +1,6 @@
-// Copyright (C) 2019 SenseTime.
-//
-// SPDX-License-Identifier: MIT
+/*
+ * Copyright (c) 2019, SenseTime.
+ */
 
 #ifndef INCLUDE_PARROTS_DARRAY_CUDAWARPFUNCTION_CUH_
 #define INCLUDE_PARROTS_DARRAY_CUDAWARPFUNCTION_CUH_

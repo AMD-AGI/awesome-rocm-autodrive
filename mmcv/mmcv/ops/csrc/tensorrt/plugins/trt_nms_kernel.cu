@@ -1,6 +1,4 @@
-// Copyright (C) OpenMMLab. All rights reserved
-//
-// SPDX-License-Identifier: MIT
+// Copyright (c) OpenMMLab. All rights reserved
 #include <stdio.h>
 #include <thrust/execution_policy.h>
 #include <thrust/gather.h>

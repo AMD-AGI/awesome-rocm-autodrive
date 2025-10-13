@@ -1,6 +1,6 @@
-// Copyright (C) OpenMMLab. All rights reserved
-//
-// SPDX-License-Identifier: MIT
+// Copyright (c) OpenMMLab. All rights reserved
+// Modified from
+// https://github.com/CVMI-Lab/PAConv/tree/main/scene_seg/lib/pointops/src/knnquery_heap
 #ifndef KNN_CUDA_KERNEL_CUH
 #define KNN_CUDA_KERNEL_CUH
 

@@ -1,6 +1,4 @@
-# Copyright (C) OpenMMLab. All rights reserved.
-#
-# SPDX-License-Identifier: MIT
+# Copyright (c) OpenMMLab. All rights reserved.
 from . import ipu, mlu, mps, npu
 from .scatter_gather import scatter, scatter_kwargs
 from .utils import get_device

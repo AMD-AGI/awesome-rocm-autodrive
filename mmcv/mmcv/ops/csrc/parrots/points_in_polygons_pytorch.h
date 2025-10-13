@@ -1,7 +1,3 @@
-/*
- * SPDX-License-Identifier: MIT
- */
-
 // Copyright (c) OpenMMLab. All rights reserved
 #ifndef POINTS_IN_POLYGONS_PYTORCH_H
 #define POINTS_IN_POLYGONS_PYTORCH_H

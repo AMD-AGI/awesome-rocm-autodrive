@@ -1,6 +1,4 @@
-// Copyright (C) Facebook, Inc. and its affiliates. All Rights Reserved
-//
-// SPDX-License-Identifier: MIT
+// Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved
 #include "pytorch_cpp_helper.hpp"
 
 Tensor nms_quadri_cpu(const Tensor dets, const Tensor scores,

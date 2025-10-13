@@ -1,6 +1,6 @@
-// Copyright (C) OpenMMLab. All rights reserved
-//
-// SPDX-License-Identifier: MIT
+// Copyright (c) OpenMMLab. All rights reserved
+// Modified from
+// https://github.com/hszhao/semseg/blob/master/lib/psa/src
 
 #include <torch/serialize/tensor.h>
 

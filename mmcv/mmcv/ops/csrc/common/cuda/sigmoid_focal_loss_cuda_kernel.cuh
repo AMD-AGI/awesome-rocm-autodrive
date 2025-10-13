@@ -1,6 +1,4 @@
-// Copyright (C) OpenMMLab. All rights reserved
-//
-// SPDX-License-Identifier: MIT
+// Copyright (c) OpenMMLab. All rights reserved
 #ifndef SIGMOID_FOCAL_LOSS_CUDA_KERNEL_CUH
 #define SIGMOID_FOCAL_LOSS_CUDA_KERNEL_CUH
 
