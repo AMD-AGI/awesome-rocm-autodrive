@@ -484,17 +484,6 @@ REGISTER_DEVICE_IMPL(furthest_point_sampling_forward_impl, CUDA,
 REGISTER_DEVICE_IMPL(furthest_point_sampling_with_dist_forward_impl, CUDA,
                      furthest_point_sampling_with_dist_forward_cuda);
 
-torch::Tensor fused_bias_leakyrelu_op(const torch::Tensor& input,
-                                      const torch::Tensor& bias,
-                                      const torch::Tensor& refer, int act,
-                                      int grad, float alpha, float scale);
-
-torch::Tensor fused_bias_leakyrelu_op_impl(const torch::Tensor& input,
-                                           const torch::Tensor& bias,
-                                           const torch::Tensor& refer, int act,
-                                           int grad, float alpha, float scale);
-REGISTER_DEVICE_IMPL(fused_bias_leakyrelu_op_impl, CUDA,
-                     fused_bias_leakyrelu_op);
 
 void GatherPointsForwardCUDAKernelLauncher(int b, int c, int n, int npoints,
                                            const Tensor points,

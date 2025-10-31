@@ -26,7 +26,6 @@ from .focal_loss import (SigmoidFocalLoss, SoftmaxFocalLoss,
                          sigmoid_focal_loss, softmax_focal_loss)
 from .furthest_point_sample import (furthest_point_sample,
                                     furthest_point_sample_with_dist)
-from .fused_bias_leakyrelu import FusedBiasLeakyReLU, fused_bias_leakyrelu
 from .gather_points import gather_points
 from .group_points import GroupAll, QueryAndGroup, grouping_operation
 from .info import (get_compiler_version, get_compiling_cuda_version,
@@ -69,7 +68,7 @@ from .sync_bn import SyncBatchNorm
 from .three_interpolate import three_interpolate
 from .three_nn import three_nn
 from .tin_shift import TINShift, tin_shift
-from .upfirdn2d import upfirdn2d
+#from .upfirdn2d import upfirdn2d
 from .voxelize import Voxelization, voxelization
 
 __all__ = [
@@ -87,8 +86,8 @@ __all__ = [
     'point_sample', 'rel_roi_point_to_rel_img_point', 'SimpleRoIAlign',
     'SAConv2d', 'TINShift', 'tin_shift', 'assign_score_withk',
     'box_iou_rotated', 'box_iou_quadri', 'RoIPointPool3d', 'nms_rotated',
-    'knn', 'ball_query', 'upfirdn2d', 'FusedBiasLeakyReLU',
-    'fused_bias_leakyrelu', 'rotated_feature_align', 'RiRoIAlignRotated',
+    'knn', 'ball_query', 
+    'rotated_feature_align', 'RiRoIAlignRotated',
     'riroi_align_rotated', 'RoIAlignRotated', 'roi_align_rotated',
     'pixel_group', 'QueryAndGroup', 'GroupAll', 'grouping_operation',
     'contour_expand', 'three_nn', 'three_interpolate',

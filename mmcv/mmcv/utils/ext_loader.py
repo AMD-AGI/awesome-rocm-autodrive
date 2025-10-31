@@ -31,8 +31,6 @@ else:
         'left_pool_backward',
         'right_pool_forward',
         'right_pool_backward',
-        'fused_bias_leakyrelu',
-        'upfirdn2d',
         'ms_deform_attn_forward',
         'pixel_group',
         'contour_expand',

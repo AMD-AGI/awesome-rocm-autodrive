@@ -515,17 +515,6 @@ REGISTER_DEVICE_IMPL(furthest_point_sampling_forward_impl, CUDA,
 REGISTER_DEVICE_IMPL(furthest_point_sampling_with_dist_forward_impl, CUDA,
                      furthest_point_sampling_with_dist_forward_cuda);
 
-torch::Tensor fused_bias_leakyrelu_op(const torch::Tensor& input,
-                                      const torch::Tensor& bias,
-                                      const torch::Tensor& refer, int act,
-                                      int grad, float alpha, float scale);
-
-torch::Tensor fused_bias_leakyrelu_op_impl(const torch::Tensor& input,
-                                           const torch::Tensor& bias,
-                                           const torch::Tensor& refer, int act,
-                                           int grad, float alpha, float scale);
-REGISTER_DEVICE_IMPL(fused_bias_leakyrelu_op_impl, CUDA,
-                     fused_bias_leakyrelu_op);
 
 void GatherPointsForwardCUDAKernelLauncher(int b, int c, int n, int npoints,
                                            const Tensor points,
@@ -1446,16 +1435,6 @@ void tin_shift_backward_impl(Tensor grad_output, Tensor shift,
 REGISTER_DEVICE_IMPL(tin_shift_forward_impl, CUDA, tin_shift_forward_cuda);
 REGISTER_DEVICE_IMPL(tin_shift_backward_impl, CUDA, tin_shift_backward_cuda);
 
-torch::Tensor upfirdn2d_op(const torch::Tensor& input,
-                           const torch::Tensor& kernel, int up_x, int up_y,
-                           int down_x, int down_y, int pad_x0, int pad_x1,
-                           int pad_y0, int pad_y1);
-
-torch::Tensor upfirdn2d_op_impl(const torch::Tensor& input,
-                                const torch::Tensor& kernel, int up_x, int up_y,
-                                int down_x, int down_y, int pad_x0, int pad_x1,
-                                int pad_y0, int pad_y1);
-REGISTER_DEVICE_IMPL(upfirdn2d_op_impl, CUDA, upfirdn2d_op);
 
 int HardVoxelizeForwardCUDAKernelLauncher(
     const at::Tensor& points, at::Tensor& voxels, at::Tensor& coors,
