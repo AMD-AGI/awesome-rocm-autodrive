@@ -62,7 +62,7 @@ awesome-rocm-autodrive-training/
 ### 1. Clone the repo:
 
 ```bash
-git clone https://github.com/AMD-AIG-AIMA/awesome-rocm-autodrive.git
+git clone https://github.com/AMD-AGI/awesome-rocm-autodrive.git
 cd awesome-rocm-autodrive
 ```
 
@@ -74,7 +74,7 @@ docker build -t rocm-autodrive .
 
 or directly pull the docker image provided by AMD:
 ```bash
-docker pull rocm/pytorch-training:autodrive
+docker pull amdagi/autodrive_training_rocm6.4 
 ```
 
 build mmcv (optional)
@@ -107,7 +107,7 @@ We are actively expanding the coverage of this project. Upcoming efforts include
 - 🧠 **FP8 & Mixed Precision Training**: Explore FP8/BF16 optimization on MI300X GPUs.
 - 🤝 **Upstream Collaboration**: Work with upstream repos to upstream ROCm compatibility patches and improvements.
 
-Have ideas or requests? [Open an issue](https://github.com/AMD-AIG-AIMA/awesome-rocm-autodrive/issues) or start a discussion!
+Have ideas or requests? [Open an issue](https://github.com/AMD-AGI/awesome-rocm-autodrive/issues) or start a discussion!
 
 ---
 
@@ -133,7 +133,6 @@ When adding a new model:
 
 ## 📝 License
 
-This project is licensed under the **MIT license**. while some specific operations in this library are with other licenses. Please refer to [NOTICE.md](NOTICE.md) for the careful check, if you are using our code for commercial matters.
-See the full license text here: [LICENSE](./LICENSE)
+This project is licensed under the **MIT license**. while some other examples in this library are with other licenses. See the full license text here: [LICENSE](./LICENSE)
 
 
