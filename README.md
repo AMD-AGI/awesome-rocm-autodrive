@@ -74,7 +74,7 @@ docker build -t rocm-autodrive .
 
 or directly pull the docker image provided by AMD:
 ```bash
-docker pull amdagi/autodrive_training_rocm6.4 
+docker pull amdagi/autodrive_training_rocm6.4:v1 
 ```
 
 build mmcv (optional)
